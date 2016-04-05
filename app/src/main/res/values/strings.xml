@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="sketchModel">Add sketch model</string>
+    <string name="textualModel">Add textual commments model</string>
+</resources>
